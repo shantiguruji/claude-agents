@@ -1,0 +1,60 @@
+{
+  "agents": [
+    {
+      "id": "social_media",
+      "name": "Social Media Auto Post Agent",
+      "description": "Generates and schedules social media posts across platforms",
+      "enabled": true,
+      "max_retries": 3,
+      "timeout": 30
+    },
+    {
+      "id": "content_repurposing",
+      "name": "Content Repurposing Agent",
+      "description": "Transforms content into multiple formats",
+      "enabled": true,
+      "max_retries": 3,
+      "timeout": 30
+    },
+    {
+      "id": "competitor_research",
+      "name": "Competitor Research Agent",
+      "description": "Analyzes competitors and market positioning",
+      "enabled": true,
+      "max_retries": 3,
+      "timeout": 30
+    },
+    {
+      "id": "lead_generation",
+      "name": "Lead Generation Agent",
+      "description": "Identifies and qualifies leads",
+      "enabled": true,
+      "max_retries": 3,
+      "timeout": 30
+    },
+    {
+      "id": "email_marketing",
+      "name": "Email Marketing Agent",
+      "description": "Creates and manages email campaigns",
+      "enabled": true,
+      "max_retries": 3,
+      "timeout": 30
+    },
+    {
+      "id": "content_strategy",
+      "name": "Content Strategy Agent",
+      "description": "Develops content strategies and plans",
+      "enabled": true,
+      "max_retries": 3,
+      "timeout": 30
+    },
+    {
+      "id": "personal_ceo",
+      "name": "Personal CEO Agent",
+      "description": "Executive assistant and strategic planning",
+      "enabled": true,
+      "max_retries": 3,
+      "timeout": 30
+    }
+  ]
+}
